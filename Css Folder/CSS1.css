@@ -9,13 +9,34 @@ body {
 }
 h1 {
     text-align: center;
+    color: #342d93;
+    margin: 0vh auto 8vh auto;
 }
+h2 {
+    color: #2a21b4;
+    width: 9%;
+    background-color: #bfbce1;
+    border-radius: 20px;
+    padding: 1vh 1vw;
+    margin: 1vh 1vw;
+}
+
+h3 {
+    color: #342d93;
+}
+.longer {
+    width: 12%;
+}
+.longest {
+    width: 17%;
+}
+
 
 #ph {
     width: 80%;
     height: 30%;
     background-color: #ffffff;
-    margin: 3vh 1vw;
+    margin: 4vh 2vw;
     padding: 2vh 1vw;
     border-radius: 40px;
 }
@@ -47,44 +68,15 @@ h1 {
     padding: 2vh 1vw;
     border-radius: 20px;
 }
+
+
 #lagos {
     width: 80%;
     height: 30%;
     background-color: #ffffff;
-    margin: 1vw 3vh;
-    padding: 1vw 2vh;
+    margin: 4vh 2vw;
+    padding: 2vh 1vw;
     border-radius: 40px;
-}
-#warri {
-    width: 80%;
-    height: 30%;
-    background-color: #ffffff;
-    margin: 1vw 3vh;
-    padding: 1vw 2vh;
-    border-radius: 40px;
-}
-#pivot {
-    width: 80%;
-    height: 30%;
-    background-color: #ffffff;
-    margin: 1vw 3vh;
-    padding: 1vw 2vh;
-    border-radius: 40px;
-}
-.local1{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-.local2{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-.local4{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
 }
 #hq {
     width: 15vw;
@@ -100,12 +92,32 @@ h1 {
     padding: 2vh 1vw;
     border-radius: 20px;
 }
+
+
+#warri {
+    width: 80%;
+    height: 30%;
+    background-color: #ffffff;
+    margin: 4vh 2vw;
+    padding: 2vh 1vw;
+    border-radius: 40px;
+}
 #escravos {
     width: 15vw;
     background-color: #f5f5f5;
     margin: 3vh 1vw;
     padding: 2vh 1vw;
     border-radius: 20px;
+}
+
+
+#pivot {
+    width: 80%;
+    height: 30%;
+    background-color: #ffffff;
+    margin: 4vh 3vw;
+    padding: 2vh 1vw;
+    border-radius: 40px;
 }
 #office {
     width: 15vw;
@@ -121,23 +133,21 @@ h1 {
     padding: 2vh 1vw;
     border-radius: 20px;
 }
-h2 {
-    color: #2a21b4;
-    width: 9%;
-    background-color: #bfbce1;
-    border-radius: 20px;
-    padding: 1vh 1vw;
-    margin: 1vh 1vw;
+
+
+.local1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
-h3 {
-    color: #342d93;
+.local2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
-h1 {
-    color: #342d93;
+.local4{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
-.longer {
-    width: 12%;
-}
-.longest {
-    width: 17%;
-}
+
