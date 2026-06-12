@@ -36,6 +36,9 @@ li {
 .warehouse-icon, .guage-icon, .it-icon, .office-icon, .hq-icon, .shore-icon, .terminal-icon {
     width: 5vw;
 }
+.mikano-icon {
+    width: 10vw;
+}
 
 h1 {
     text-align: center;
@@ -44,7 +47,7 @@ h1 {
 }
 h2 {
     color: #2a21b4;
-    width: 9%;
+    width: 12%;
     background-color: #bfbce1;
     border-radius: 20px;
     padding: 1vh 1vw;
@@ -54,109 +57,38 @@ h2 {
 h3 {
     color: #342d93;
 }
-.longer {
-    width: 12%;
-}
-.longest {
-    width: 17%;
-}
 
 
-#ph {
-    width: 80%;
+#section1 {
+    width: 60%;
     height: 30%;
     background-color: #ffffff;
     margin: 4vh 2vw;
     padding: 2vh 1vw;
     border-radius: 40px;
 }
-#warehouse {
+#sub1 {
     width: 15vw;
     background-color: #f5f5f5;
     margin: 3vh 1vw;
     padding: 2vh 1vw;
     border-radius: 20px;
 }
-#guage {
+#sub2 {
     width: 15vw;
     background-color: #f5f5f5;
     margin: 3vh 1vw;
     padding: 2vh 1vw;
     border-radius: 20px;
 }
-#IT {
+#sub3 {
     width: 15vw;
     background-color: #f5f5f5;
     margin: 3vh 1vw;
     padding: 2vh 1vw;
     border-radius: 20px;
 }
-#general {
-    width: 15vw;
-    background-color: #f5f5f5;
-    margin: 3vh 1vw;
-    padding: 2vh 1vw;
-    border-radius: 20px;
-}
-
-
-#lagos {
-    width: 80%;
-    height: 30%;
-    background-color: #ffffff;
-    margin: 4vh 2vw;
-    padding: 2vh 1vw;
-    border-radius: 40px;
-}
-#hq {
-    width: 15vw;
-    background-color: #f5f5f5;
-    margin: 3vh 1vw;
-    padding: 2vh 1vw;
-    border-radius: 20px;
-}
-#chevron {
-    width: 15vw;
-    background-color: #f5f5f5;
-    margin: 3vh 1vw;
-    padding: 2vh 1vw;
-    border-radius: 20px;
-}
-
-
-#warri {
-    width: 80%;
-    height: 30%;
-    background-color: #ffffff;
-    margin: 4vh 2vw;
-    padding: 2vh 1vw;
-    border-radius: 40px;
-}
-#escravos {
-    width: 15vw;
-    background-color: #f5f5f5;
-    margin: 3vh 1vw;
-    padding: 2vh 1vw;
-    border-radius: 20px;
-}
-
-
-#pivot {
-    width: 80%;
-    height: 30%;
-    background-color: #ffffff;
-    margin: 4vh 2vw;
-    padding: 2vh 1vw;
-    border-radius: 40px;
-}
-#office {
-    width: 15vw;
-    background-color: #f5f5f5;
-    margin: 3vh 1vw;
-    padding: 2vh 1vw;
-    border-radius: 20px;
-}
-#terminal {
+#sub4 {
     width: 15vw;
     background-color: #f5f5f5;
     margin: 3vh 1vw;
@@ -166,16 +98,6 @@ h3 {
 
 
 .local1{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-.local2{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-.local4{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
