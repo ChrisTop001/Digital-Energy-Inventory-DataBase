@@ -57,6 +57,12 @@ h2 {
 h3 {
     color: #342d93;
 }
+.longer {
+    width: 12%;
+}
+.longest {
+    width: 17%;
+}
 
 
 #section1 {
@@ -88,7 +94,30 @@ h3 {
     padding: 2vh 1vw;
     border-radius: 20px;
 }
+
+#section2 {
+    width: 60%;
+    height: 30%;
+    background-color: #ffffff;
+    margin: 4vh 2vw;
+    padding: 2vh 1vw;
+    border-radius: 40px;
+}
 #sub4 {
+    width: 15vw;
+    background-color: #f5f5f5;
+    margin: 3vh 1vw;
+    padding: 2vh 1vw;
+    border-radius: 20px;
+}
+#sub5 {
+    width: 15vw;
+    background-color: #f5f5f5;
+    margin: 3vh 1vw;
+    padding: 2vh 1vw;
+    border-radius: 20px;
+}
+#sub6 {
     width: 15vw;
     background-color: #f5f5f5;
     margin: 3vh 1vw;
