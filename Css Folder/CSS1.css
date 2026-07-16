@@ -60,6 +60,9 @@ h3 {
 .longi {
     width: 13%
 }
+.longii {
+    width: 15%
+}
 .longest {
     width: 17%;
 }
@@ -151,7 +154,7 @@ h3 {
 }
 
 
-#warri {
+#pivotL {
     width: 80%;
     height: 30%;
     background-color: #ffffff;
@@ -159,7 +162,14 @@ h3 {
     padding: 2vh 1vw;
     border-radius: 40px;
 }
-#escravos {
+#LagosIT {
+    width: 15vw;
+    background-color: #f5f5f5;
+    margin: 3vh 1vw;
+    padding: 2vh 1vw;
+    border-radius: 20px;
+}
+#LagosAdmin {
     width: 15vw;
     background-color: #f5f5f5;
     margin: 3vh 1vw;
@@ -168,7 +178,7 @@ h3 {
 }
 
 
-#pivot {
+#pivotC {
     width: 80%;
     height: 30%;
     background-color: #ffffff;
@@ -176,14 +186,14 @@ h3 {
     padding: 2vh 1vw;
     border-radius: 40px;
 }
-#office {
+#CalabarIT {
     width: 15vw;
     background-color: #f5f5f5;
     margin: 3vh 1vw;
     padding: 2vh 1vw;
     border-radius: 20px;
 }
-#terminal {
+#CalabarAdmin {
     width: 15vw;
     background-color: #f5f5f5;
     margin: 3vh 1vw;
@@ -198,6 +208,11 @@ h3 {
     flex-wrap: wrap;
 }
 .local2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.local3{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
